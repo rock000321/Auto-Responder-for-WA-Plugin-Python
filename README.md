@@ -25,3 +25,4 @@
 * Hit save and send /help from another account to the bot
   
 **For further reference check the screenshots attached to this repo**
+[![Run on Repl.it](https://repl.it/badge/github/CW4RR10R/Auto-Responder-for-WA-Plugin-Python)](https://repl.it/github/CW4RR10R/Auto-Responder-for-WA-Plugin-Python)
